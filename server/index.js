@@ -14,7 +14,7 @@ connectToDatabase()
 const app = express() 
 app.use(cors(
     {
-        origin: 'https://ems-frontend-pi.vercel.app/',
+        origin: "https://ems-frontend-pi.vercel.app",
         credentials: true
     }
 ))
