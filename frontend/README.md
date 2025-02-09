@@ -1,1 +1,1 @@
-Right now the front-end file structure is not organized I will update it later when I complete the series.
+This repository, contains MERN stack web-application for CRUD operations for Employee Management system
