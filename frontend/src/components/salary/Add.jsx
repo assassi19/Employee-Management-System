@@ -64,7 +64,7 @@ const Add = () => {
           <form onSubmit={handleSubmit}>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
              {/* Department */}
-             <div>
+              <div>
                 <label className="block text-sm font-medium text-gray-700">
                   Department
                 </label>
@@ -83,7 +83,7 @@ const Add = () => {
                 </select>
               </div>
               {/* employee  */}
-             <div>
+              <div>
                 <label className="block text-sm font-medium text-gray-700">
                   Employee
                 </label>
